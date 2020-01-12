@@ -1,0 +1,4 @@
+D:\1uni-unity-random-stuff\ПУновасграда\CG\CG\trunk\CGProject\obj\Debug\Draw.csprojAssemblyReference.cache
+D:\1uni-unity-random-stuff\ПУновасграда\CG\CG\trunk\CGProject\obj\Debug\Draw.DoubleBufferedPanel.resources
+D:\1uni-unity-random-stuff\ПУновасграда\CG\CG\trunk\CGProject\obj\Debug\Draw.MainForm.resources
+D:\1uni-unity-random-stuff\ПУновасграда\CG\CG\trunk\CGProject\obj\Debug\Draw.csproj.GenerateResource.cache
